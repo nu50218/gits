@@ -1,6 +1,6 @@
 # gits
 
-go get みたいに勝手にディレクトリいい感じにgit cloneしてくれる奴（自分用
+go get みたいに勝手に$HOME/gitsにディレクトリいい感じにgit cloneしてくれる奴（自分用
 
 ## Install
 
